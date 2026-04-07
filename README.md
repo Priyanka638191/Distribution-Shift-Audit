@@ -18,5 +18,5 @@ The objective is to detect, characterize, and quantify the distribution shift be
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Novintix-Distribution-Shift-Audit.git](https://github.com/YOUR_USERNAME/Novintix-Distribution-Shift-Audit.git)
+git clone [https://github.com/Priyanka638191/Novintix-Distribution-Shift-Audit.git]
 cd Novintix-Distribution-Shift-Audit
