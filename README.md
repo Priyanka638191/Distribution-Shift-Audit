@@ -10,7 +10,7 @@ Using the U.S. Flight Delay dataset, the data was partitioned into two distinct 
 The objective is to detect, characterize, and quantify the distribution shift between these windows, compute covariate shift via density ratio estimation, and measure the downstream R² degradation of a baseline regression model.
 
 ## Repository Contents
-1. `flight_delay_audit.ipynb`: The sequential, fully commented Python notebook containing data loading, Population Stability Index (PSI) auditing, density ratio estimation, and model performance evaluation.
+1. `Flight Delay Notebook.ipynb`: The sequential, fully commented Python notebook containing data loading, Population Stability Index (PSI) auditing, density ratio estimation, and model performance evaluation.
 2. `Distribution_Shift_Report.pdf`: A 2-page executive summary detailing the nature of the shift, root cause analysis, and feature-level remediation priorities for the ML Engineering team.
 3. `requirements.txt`: Python package dependencies.
 
