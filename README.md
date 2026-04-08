@@ -20,7 +20,7 @@ The objective is to detect, characterize, and quantify the distribution shift be
 
 git clone [https://github.com/Priyanka638191/Distribution-Shift-Audit.git]
 
-$ cd Novintix-Distribution-Shift-Audit
+$ cd Distribution-Shift-Audit
 
 **2. Install dependencies:**
 
